@@ -1,4 +1,4 @@
-// Problem: http://codeforces.com/contest/598
+// Problem: http://codeforces.com/contest/598/problem/A
 // Submission: http://codeforces.com/contest/598/submission/30763971
 
 #include <bits/stdc++.h>
